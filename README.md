@@ -1,6 +1,6 @@
 # MERN library project (frontend)
 
-[DEMO LINK](https://ruslanvasylyshyn.github.io/MERN-library-project-frontend/)
+[DEMO LINK](https://mern-library-project-frontend.onrender.com/)
 
 - React
 - React router
